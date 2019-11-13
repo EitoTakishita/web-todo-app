@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # web-todo-app
 
 > My stellar Nuxt.js project
@@ -20,3 +21,6 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+=======
+# web-todo-app
+>>>>>>> origin/master
